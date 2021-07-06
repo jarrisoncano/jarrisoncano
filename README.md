@@ -1,56 +1,14 @@
-# 🔥**PLAN OF STUDY**🔥
 
-## ✨**FRONT END:** 
-* React
-  * Socket IO
-  * Date fns
-  * Redux
-  * Class components
-  * Jest - Testing
-  * Graph Ql
-  * Storybook
-  * React Native
-* TypeScript
-* JavaScript 
-  * Closures
-* Css
-  * Atomic design
-  * Responsive design / Retina Display
-  * Post Css
-* Webpack
-* D3 - Library
-* Jquery
+# Hi there 👋 
+I am **Jarrison Cano** a Front End developer looking for his first job.
+- 🌱 I’m currently learning Full Stack Development.
+- 💬 Ask me about anything, I am happy to help.
 
----
-## 🔧**TOOLS:**
-* Gulp / Grunt
-* FTP / SSH
-* Authorization / Authentication
-* Webservices / API / Restful services
-* Terminal / Bash 
-* OAUTH 2
+### 🛠️Languages and Tools:
+* **Html, Css, JavaScript**.
+* **React Js** (Next js, react-hook-form, framer-motion, etc).
+* **Node Js** (Express, ejs).
+* **DB's:** MongoDB, MySql, SQL Server.
+* **Styles:** styled components, modules, styledjsx, etc.
 
----
-## 💥**OTHERS:**
-* Java - Sprint
-* Phyton - Django
-
---- 
-## 📝**MARKET STUDY:**
-* Cross browser
-* MVC
-* Design Patterns
-* UI / UX
-* OOP
-
----
-## 📌**Schedule 6:00 - 24:00**
-
-
-| **1H - 7:00**  |  **2H - 9:00**  | **2H - 11:00**  |  **2H - 13:00**  | **2H - 15:00**  |
-|---|---|---|---|---|
-|  📝Plan day | ✏️Study  | 💡Apply  | ✏️Study  | 💡Apply  |
-
-| **2H - 17:00**  |  **2H - 19:00**  | **3H - 22:00**  |  **2H - 24:00** 
-|---|---|---|---|
-|  ✏️Study | 💡Apply  | 📄Blogs  | 🍻Other  
+Last Edited on: 06/07/2021
