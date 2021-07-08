@@ -1,6 +1,6 @@
 
 # Hi there 👋 
-I am **Jarrison Cano** a Front End developer looking for his first job.
+I am **Jarrison Cano** a Front End developer who's looking for new opportunities!
 - 🌱 I’m currently learning Full Stack Development.
 - 💬 Ask me about anything, I am happy to help.
 
