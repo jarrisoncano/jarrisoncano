@@ -30,6 +30,7 @@
 * Terminal / Bash 
 * OAUTH 2
 * GitHub Actions
+* Server Side Render
 
 ---
 ## 💥**OTHERS:**
