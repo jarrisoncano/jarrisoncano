@@ -1,8 +1,9 @@
 # 🔥**PLAN OF STUDY**🔥
 
 ## ✨**FRONT END:** 
-* React
+* React 
   * Socket IO
+  * Propper library
   * Date fns
   * Redux
   * Class components
