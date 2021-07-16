@@ -3,6 +3,7 @@
 ## ✨**FRONT END:** 
 * React 
   * Socket IO
+  * Lodash
   * Propper library
   * Date fns
   * Redux
