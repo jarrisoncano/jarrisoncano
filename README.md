@@ -9,6 +9,6 @@ I am **Jarrison Cano** a Front End developer who's looking for new opportunities
 * **React Js** (Next js, react-hook-form, framer-motion, etc).
 * **Node Js** (Express, ejs).
 * **DB's:** MongoDB, MySql, SQL Server.
-* **Styles:** styled components, modules, styledjsx, etc.
+* **Styles:** styled components, modules, styled jsx, etc.
 
 Last Edited on: 06/07/2021
