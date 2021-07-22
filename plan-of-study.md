@@ -39,6 +39,7 @@
 ## 💥**OTHERS:**
 * Java - Sprint
 * Phyton - Django
+* Books: https://mega.nz/folder/DOZEmBQJ#yK0bJiK6J2PVpo03xnJ0RQ
 
 --- 
 ## 📝**MARKET STUDY:**
