@@ -14,8 +14,6 @@
   * Storybook
   * React Native
 * TypeScript
-* JavaScript 
-  * Closures [x]
 * Css
   * Atomic design
   * Responsive design / Retina Display
