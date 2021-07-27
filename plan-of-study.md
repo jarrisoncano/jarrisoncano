@@ -15,7 +15,7 @@
   * React Native
 * TypeScript
 * JavaScript 
-  * Closures
+  * Closures [x]
 * Css
   * Atomic design
   * Responsive design / Retina Display
