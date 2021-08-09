@@ -2,7 +2,7 @@
 
 ## ✨**FRONT END:** 
 * React 
-  * hoc
+  * React Native
   * Lodash
   * Propper library
   * Date fns
@@ -11,7 +11,6 @@
   * Jest - Testing
   * Graph Ql
   * Storybook
-  * React Native
 * TypeScript
 * Css
   * Atomic design
