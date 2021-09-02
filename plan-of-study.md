@@ -2,13 +2,10 @@
 
 ## ✨**FRONT END:** 
 * React 
-  * React Native
   * Lodash
   * Propper library
   * Date fns
   * Redux
-  * Class components
-  * Jest - Testing
   * Graph Ql
   * Storybook
 * TypeScript
