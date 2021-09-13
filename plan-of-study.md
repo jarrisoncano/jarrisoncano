@@ -5,7 +5,6 @@
   * Lodash
   * Propper library
   * Date fns
-  * Redux
   * Graph Ql
   * Storybook
 * TypeScript
