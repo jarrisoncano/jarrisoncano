@@ -21,8 +21,6 @@
 * Gulp / Grunt
 * FTP / SSH
 * Authorization / Authentication
-* Webservices / API / Restful services
-* Terminal / Bash 
 * OAUTH 2
 * GitHub Actions
 * Server Side Render
