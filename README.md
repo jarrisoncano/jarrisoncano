@@ -1,6 +1,6 @@
 
 # Hi there 👋 
-I am **Jarrison Cano** a softaware developer who's looking for new opportunities!
+I am **Jarrison Cano** a software developer who's looking for new opportunities!
 - 🌱 I’m currently learning Full Stack Development.
 - 💬 Ask me about anything, I am happy to help.
 
