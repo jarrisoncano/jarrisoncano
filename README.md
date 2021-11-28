@@ -5,7 +5,7 @@ I am **Jarrison Cano** a software developer who's looking for new opportunities!
 - 💬 Ask me about anything, I am happy to help.
 
 ### 🛠️Languages and Tools:
-* **Html, Css, JavaScript**.
+* **Html, Css, JavaScript, TypeScript**.
 * **React Js** (Next js, react-hook-form, framer-motion, etc).
 * **React Native** (React-native-cli, Expo).
 * **Testing** (Jest, testing-library, github-actions).
